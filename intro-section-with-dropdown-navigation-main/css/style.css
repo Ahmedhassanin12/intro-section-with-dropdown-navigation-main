@@ -1,0 +1,10 @@
+body {
+    font-family: 'Space Mono', monospace;
+    font-family: 'Epilogue', sans-serif;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 2rem;
+}
+section {
+    height: calc(100vh - 72px);
+}
