@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![]("Screenshot 2022-05-02 181955")
+![](./"Screenshot 2022-05-02 181955")
 
 ### Links
 
